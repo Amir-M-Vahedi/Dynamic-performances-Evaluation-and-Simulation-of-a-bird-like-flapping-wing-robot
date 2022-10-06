@@ -1,5 +1,5 @@
 # Dynamic Performances Evaluation and Simulation of a Bird-like Flapping Wing Robot
-This project has been in order to regenerate the results of the Reference [[1]](#1).
+This project has been done in order to regenerate the results of the Reference [[1]](#1).
 This Project is about dynamic performances evaluation and simulation of a bird-like flapping wing robot under randomly uncertain disturbances.
 
 
