@@ -30,6 +30,15 @@ This project delves into the dynamic performance evaluation and simulation of a 
 <img src="https://github.com/Amir-M-Vahedi/Dynamic-performances-Evaluation-and-Simulation-of-a-bird-like-flapping-wing-robot/assets/115154998/6bea32c1-e780-410c-a43e-7dda10b248de">
 </p>
 
+<p align="center">
+<img src="https://github.com/Amir-M-Vahedi/Dynamic-performances-Evaluation-and-Simulation-of-a-bird-like-flapping-wing-robot/assets/115154998/0e82aeae-8488-4f85-bd3c-c2f48e2e7320">
+</p>
+
+<p align="center">
+<img src="https://github.com/Amir-M-Vahedi/Dynamic-performances-Evaluation-and-Simulation-of-a-bird-like-flapping-wing-robot/assets/115154998/7e1c3be6-31b3-4c2a-9dad-1271ef5dcd1e">
+</p>
+
+
 ### Reference
 
 <a id="1">[1]</a> Ding C (2020) Dynamic performances of a bird-like flapping wing robot under randomly uncertain disturbances. PLOS ONE 15(5): e0232202. https://doi.org/10.1371/journal.pone.0232202
