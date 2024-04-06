@@ -26,6 +26,10 @@ This project delves into the dynamic performance evaluation and simulation of a 
 1. **Simulink Models**: Contains the Simulink implementation of the dynamic equations for the flapping wing robot. These models are the core of the simulation effort, allowing for the exploration of different flight dynamics and control strategies.
 2. **MATLAB Scripts**: A series of scripts for initializing the simulation with various parameters. These scripts are key to replicating the diverse results mentioned in Reference [1] and exploring new configurations.
 
+<p align="center">
+<img src="https://github.com/Amir-M-Vahedi/Dynamic-performances-Evaluation-and-Simulation-of-a-bird-like-flapping-wing-robot/assets/115154998/6bea32c1-e780-410c-a43e-7dda10b248de">
+</p>
+
 ### Reference
 
 <a id="1">[1]</a> Ding C (2020) Dynamic performances of a bird-like flapping wing robot under randomly uncertain disturbances. PLOS ONE 15(5): e0232202. https://doi.org/10.1371/journal.pone.0232202
